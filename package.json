@@ -1,0 +1,26 @@
+{
+  "name": "pizza-place",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nemanjatorlak/Pizza-Place.git"
+  },
+  "author": "Nemanja Torlak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nemanjatorlak/Pizza-Place/issues"
+  },
+  "homepage": "https://github.com/nemanjatorlak/Pizza-Place#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.8",
+    "mongoose": "^5.12.10",
+    "multer": "^1.4.2"
+  }
+}
